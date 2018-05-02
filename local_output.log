@@ -1,0 +1,697 @@
+
+
+Stats for year 2000
+###################
+##########Average Min Temperature##########
+Average TMIN = 4.43 C
+##########Average Max Temperature##########
+Average TMAX = 17.56 C
+##########Minimum Temperature##########
+Minimum TMIN = -57.80 C
+##########Maximum Temperature##########
+Maximum TMAX = 52.20 C
+##########Hottest Stations Based on Average##########
+Hottest Station 1: USC00416892 - Average Max Temperature = 37.36 C
+Hottest Station 2: USC00411013 - Average Max Temperature = 36.86 C
+Hottest Station 3: USC00045502 - Average Max Temperature = 36.76 C
+Hottest Station 4: USC00024761 - Average Max Temperature = 34.96 C
+Hottest Station 5: USC00021026 - Average Max Temperature = 34.01 C
+##########Coldest Stations Based on Average##########
+Coldest Station 1: USC00508140 - Average Min Temperature = -20.78 C
+Coldest Station 2: USC00505873 - Average Min Temperature = -18.74 C
+Coldest Station 3: USR0000WBAR - Average Min Temperature = -18.10 C
+Coldest Station 4: USC00247248 - Average Min Temperature = -16.00 C
+Coldest Station 5: USW00026508 - Average Min Temperature = -15.69 C
+##########Hottest Stations Based on Temperature##########
+Hottest Station 1: USC00042319 - Highest Max Temperature = 52.20 C
+Hottest Station 2: USR0000AHAV - Highest Max Temperature = 49.40 C
+Hottest Station 3: USC00024761 - Highest Max Temperature = 49.40 C
+Hottest Station 4: USC00021050 - Highest Max Temperature = 49.40 C
+Hottest Station 5: USC00029376 - Highest Max Temperature = 48.90 C
+##########Coldest Stations Based on Temperature##########
+Coldest Station 1: USC00501684 - Lowest Min Temperature = -57.80 C
+Coldest Station 2: USC00505644 - Lowest Min Temperature = -57.80 C
+Coldest Station 3: USC00508140 - Lowest Min Temperature = -53.90 C
+Coldest Station 4: USW00026440 - Lowest Min Temperature = -51.70 C
+Coldest Station 5: USC00509313 - Lowest Min Temperature = -51.10 C
+
+
+Stats for year 2001
+###################
+##########Average Min Temperature##########
+Average TMIN = 4.79 C
+##########Average Max Temperature##########
+Average TMAX = 17.88 C
+##########Minimum Temperature##########
+Minimum TMIN = -52.80 C
+##########Maximum Temperature##########
+Maximum TMAX = 52.80 C
+##########Hottest Stations Based on Average##########
+Hottest Station 1: USC00045502 - Average Max Temperature = 35.65 C
+Hottest Station 2: USC00022434 - Average Max Temperature = 35.09 C
+Hottest Station 3: USC00026250 - Average Max Temperature = 33.96 C
+Hottest Station 4: USC00024761 - Average Max Temperature = 33.90 C
+Hottest Station 5: USC00042319 - Average Max Temperature = 33.80 C
+##########Coldest Stations Based on Average##########
+Coldest Station 1: USR0000AHAY - Average Min Temperature = -31.70 C
+Coldest Station 2: USW00026508 - Average Min Temperature = -29.86 C
+Coldest Station 3: USC00508409 - Average Min Temperature = -18.67 C
+Coldest Station 4: USW00026440 - Average Min Temperature = -18.54 C
+Coldest Station 5: USC00509315 - Average Min Temperature = -18.43 C
+##########Hottest Stations Based on Temperature##########
+Hottest Station 1: USC00042319 - Highest Max Temperature = 52.80 C
+Hottest Station 2: USR0000CMOJ - Highest Max Temperature = 50.60 C
+Hottest Station 3: USC00265085 - Highest Max Temperature = 50.00 C
+Hottest Station 4: USC00024829 - Highest Max Temperature = 50.00 C
+Hottest Station 5: USR0000AHAV - Highest Max Temperature = 50.00 C
+##########Coldest Stations Based on Temperature##########
+Coldest Station 1: USW00026508 - Lowest Min Temperature = -52.80 C
+Coldest Station 2: USR0000ABCA - Lowest Min Temperature = -51.10 C
+Coldest Station 3: USS0051R01S - Lowest Min Temperature = -48.00 C
+Coldest Station 4: USC00504567 - Lowest Min Temperature = -46.10 C
+Coldest Station 5: USC00508470 - Lowest Min Temperature = -46.10 C
+
+
+Stats for year 2002
+###################
+##########Average Min Temperature##########
+Average TMIN = 4.66 C
+##########Average Max Temperature##########
+Average TMAX = 17.72 C
+##########Minimum Temperature##########
+Minimum TMIN = -47.20 C
+##########Maximum Temperature##########
+Maximum TMAX = 53.30 C
+##########Hottest Stations Based on Average##########
+Hottest Station 1: USC00022807 - Average Max Temperature = 34.62 C
+Hottest Station 2: USC00347254 - Average Max Temperature = 34.40 C
+Hottest Station 3: USC00042319 - Average Max Temperature = 33.92 C
+Hottest Station 4: USC00044259 - Average Max Temperature = 33.44 C
+Hottest Station 5: USR0000CBUU - Average Max Temperature = 32.79 C
+##########Coldest Stations Based on Average##########
+Coldest Station 1: USR0000NHAM - Average Min Temperature = -19.20 C
+Coldest Station 2: USS0051R01S - Average Min Temperature = -18.97 C
+Coldest Station 3: USC00502873 - Average Min Temperature = -17.28 C
+Coldest Station 4: USC00501987 - Average Min Temperature = -15.05 C
+Coldest Station 5: USC00263101 - Average Min Temperature = -14.81 C
+##########Hottest Stations Based on Temperature##########
+Hottest Station 1: USC00042319 - Highest Max Temperature = 53.30 C
+Hottest Station 2: USR0000CMOJ - Highest Max Temperature = 50.00 C
+Hottest Station 3: USC00265846 - Highest Max Temperature = 50.00 C
+Hottest Station 4: USC00265085 - Highest Max Temperature = 48.90 C
+Hottest Station 5: USR0000AHAV - Highest Max Temperature = 48.90 C
+##########Coldest Stations Based on Temperature##########
+Coldest Station 1: USR0000AKAI - Lowest Min Temperature = -47.20 C
+Coldest Station 2: USS0050S01S - Lowest Min Temperature = -47.00 C
+Coldest Station 3: USS0051R01S - Lowest Min Temperature = -47.00 C
+Coldest Station 4: USR0000ABEV - Lowest Min Temperature = -46.70 C
+Coldest Station 5: USC00503212 - Lowest Min Temperature = -46.10 C
+
+
+Stats for year 2003
+###################
+##########Average Min Temperature##########
+Average TMIN = 4.86 C
+##########Average Max Temperature##########
+Average TMAX = 17.71 C
+##########Minimum Temperature##########
+Minimum TMIN = -50.00 C
+##########Maximum Temperature##########
+Maximum TMAX = 53.30 C
+##########Hottest Stations Based on Average##########
+Hottest Station 1: USC00344766 - Average Max Temperature = 36.20 C
+Hottest Station 2: USC00026194 - Average Max Temperature = 35.07 C
+Hottest Station 3: USC00045502 - Average Max Temperature = 34.70 C
+Hottest Station 4: USR0000CWIL - Average Max Temperature = 34.56 C
+Hottest Station 5: USC00412906 - Average Max Temperature = 34.31 C
+##########Coldest Stations Based on Average##########
+Coldest Station 1: USS0045M07S - Average Min Temperature = -20.06 C
+Coldest Station 2: USS0048V01S - Average Min Temperature = -17.77 C
+Coldest Station 3: USC00433581 - Average Min Temperature = -16.60 C
+Coldest Station 4: USC00067373 - Average Min Temperature = -16.30 C
+Coldest Station 5: USC00503181 - Average Min Temperature = -15.68 C
+##########Hottest Stations Based on Temperature##########
+Hottest Station 1: USC00042319 - Highest Max Temperature = 53.30 C
+Hottest Station 2: USR0000CMEA - Highest Max Temperature = 52.80 C
+Hottest Station 3: USR0000AHAV - Highest Max Temperature = 52.20 C
+Hottest Station 4: USC00021050 - Highest Max Temperature = 51.10 C
+Hottest Station 5: USC00029376 - Highest Max Temperature = 50.60 C
+##########Coldest Stations Based on Temperature##########
+Coldest Station 1: USC00501492 - Lowest Min Temperature = -50.00 C
+Coldest Station 2: USS0051R01S - Lowest Min Temperature = -49.00 C
+Coldest Station 3: USW00026533 - Lowest Min Temperature = -48.30 C
+Coldest Station 4: USS0050S01S - Lowest Min Temperature = -48.00 C
+Coldest Station 5: USC00509869 - Lowest Min Temperature = -46.70 C
+
+
+Stats for year 2004
+###################
+##########Average Min Temperature##########
+Average TMIN = 4.95 C
+##########Average Max Temperature##########
+Average TMAX = 17.49 C
+##########Minimum Temperature##########
+Minimum TMIN = -53.30 C
+##########Maximum Temperature##########
+Maximum TMAX = 51.70 C
+##########Hottest Stations Based on Average##########
+Hottest Station 1: USC00042346 - Average Max Temperature = 37.07 C
+Hottest Station 2: USW00053139 - Average Max Temperature = 34.80 C
+Hottest Station 3: USR0000CMIO - Average Max Temperature = 34.34 C
+Hottest Station 4: USW00023195 - Average Max Temperature = 33.65 C
+Hottest Station 5: USC00044259 - Average Max Temperature = 33.41 C
+##########Coldest Stations Based on Average##########
+Coldest Station 1: USR0000ACOA - Average Min Temperature = -25.44 C
+Coldest Station 2: USR0000AOKL - Average Min Temperature = -21.70 C
+Coldest Station 3: USR0000ASTU - Average Min Temperature = -21.70 C
+Coldest Station 4: USR0000NLIM - Average Min Temperature = -21.00 C
+Coldest Station 5: USC00306957 - Average Min Temperature = -19.66 C
+##########Hottest Stations Based on Temperature##########
+Hottest Station 1: USC00042319 - Highest Max Temperature = 51.70 C
+Hottest Station 2: USC00024761 - Highest Max Temperature = 51.10 C
+Hottest Station 3: USW00053139 - Highest Max Temperature = 49.50 C
+Hottest Station 4: USC00261371 - Highest Max Temperature = 48.90 C
+Hottest Station 5: USC00021050 - Highest Max Temperature = 48.90 C
+##########Coldest Stations Based on Temperature##########
+Coldest Station 1: USC00501684 - Lowest Min Temperature = -53.30 C
+Coldest Station 2: USC00502568 - Lowest Min Temperature = -50.60 C
+Coldest Station 3: USW00026412 - Lowest Min Temperature = -50.00 C
+Coldest Station 4: USS0045O10S - Lowest Min Temperature = -50.00 C
+Coldest Station 5: USC00502350 - Lowest Min Temperature = -50.00 C
+
+
+Stats for year 2005
+###################
+##########Average Min Temperature##########
+Average TMIN = 4.98 C
+##########Average Max Temperature##########
+Average TMAX = 17.77 C
+##########Minimum Temperature##########
+Minimum TMIN = -55.00 C
+##########Maximum Temperature##########
+Maximum TMAX = 53.90 C
+##########Hottest Stations Based on Average##########
+Hottest Station 1: USR0000MKIL - Average Max Temperature = 34.00 C
+Hottest Station 2: USC00290525 - Average Max Temperature = 33.98 C
+Hottest Station 3: USC00427606 - Average Max Temperature = 33.51 C
+Hottest Station 4: USC00383906 - Average Max Temperature = 32.92 C
+Hottest Station 5: USC00311515 - Average Max Temperature = 32.65 C
+##########Coldest Stations Based on Average##########
+Coldest Station 1: USR0000AFYK - Average Min Temperature = -41.10 C
+Coldest Station 2: USR0000AUMI - Average Min Temperature = -38.30 C
+Coldest Station 3: USR0000ADEV - Average Min Temperature = -28.90 C
+Coldest Station 4: USC00305925 - Average Min Temperature = -27.80 C
+Coldest Station 5: USR0000AWLL - Average Min Temperature = -23.90 C
+##########Hottest Stations Based on Temperature##########
+Hottest Station 1: USC00042319 - Highest Max Temperature = 53.90 C
+Hottest Station 2: USW00053139 - Highest Max Temperature = 51.90 C
+Hottest Station 3: USR0000CMOJ - Highest Max Temperature = 51.70 C
+Hottest Station 4: USW00023179 - Highest Max Temperature = 51.70 C
+Hottest Station 5: USC00029376 - Highest Max Temperature = 51.10 C
+##########Coldest Stations Based on Temperature##########
+Coldest Station 1: USC00501684 - Lowest Min Temperature = -55.00 C
+Coldest Station 2: USC00509313 - Lowest Min Temperature = -52.80 C
+Coldest Station 3: USC00509869 - Lowest Min Temperature = -51.70 C
+Coldest Station 4: USW00026412 - Lowest Min Temperature = -51.10 C
+Coldest Station 5: USC00502568 - Lowest Min Temperature = -51.10 C
+
+
+Stats for year 2006
+###################
+##########Average Min Temperature##########
+Average TMIN = 5.09 C
+##########Average Max Temperature##########
+Average TMAX = 18.07 C
+##########Minimum Temperature##########
+Minimum TMIN = -52.80 C
+##########Maximum Temperature##########
+Maximum TMAX = 52.80 C
+##########Hottest Stations Based on Average##########
+Hottest Station 1: USC00021514 - Average Max Temperature = 40.80 C
+Hottest Station 2: USC00419122 - Average Max Temperature = 36.24 C
+Hottest Station 3: USC00080611 - Average Max Temperature = 35.00 C
+Hottest Station 4: USR0000HMOL - Average Max Temperature = 34.02 C
+Hottest Station 5: USC00042319 - Average Max Temperature = 33.45 C
+##########Coldest Stations Based on Average##########
+Coldest Station 1: USC00505534 - Average Min Temperature = -24.16 C
+Coldest Station 2: USC00508130 - Average Min Temperature = -17.84 C
+Coldest Station 3: USC00210059 - Average Min Temperature = -17.19 C
+Coldest Station 4: USS0049T03S - Average Min Temperature = -17.15 C
+Coldest Station 5: USS0045Q05S - Average Min Temperature = -16.40 C
+##########Hottest Stations Based on Temperature##########
+Hottest Station 1: USC00042319 - Highest Max Temperature = 52.80 C
+Hottest Station 2: USW00053139 - Highest Max Temperature = 51.10 C
+Hottest Station 3: USC00044259 - Highest Max Temperature = 50.00 C
+Hottest Station 4: USC00045502 - Highest Max Temperature = 50.00 C
+Hottest Station 5: USR0000CMOJ - Highest Max Temperature = 50.00 C
+##########Coldest Stations Based on Temperature##########
+Coldest Station 1: USR0000ASEL - Lowest Min Temperature = -52.80 C
+Coldest Station 2: USC00501492 - Lowest Min Temperature = -52.20 C
+Coldest Station 3: USR0000ABEV - Lowest Min Temperature = -51.10 C
+Coldest Station 4: USR0000ACHL - Lowest Min Temperature = -50.60 C
+Coldest Station 5: USC00501684 - Lowest Min Temperature = -50.00 C
+
+
+Stats for year 2007
+###################
+##########Average Min Temperature##########
+Average TMIN = 4.90 C
+##########Average Max Temperature##########
+Average TMAX = 17.81 C
+##########Minimum Temperature##########
+Minimum TMIN = -53.90 C
+##########Maximum Temperature##########
+Maximum TMAX = 55.60 C
+##########Hottest Stations Based on Average##########
+Hottest Station 1: USC00314987 - Average Max Temperature = 38.30 C
+Hottest Station 2: USC00029376 - Average Max Temperature = 35.48 C
+Hottest Station 3: USR0000HMOL - Average Max Temperature = 34.62 C
+Hottest Station 4: USC00042319 - Average Max Temperature = 33.99 C
+Hottest Station 5: USC00041048 - Average Max Temperature = 33.78 C
+##########Coldest Stations Based on Average##########
+Coldest Station 1: USC00502707 - Average Min Temperature = -25.97 C
+Coldest Station 2: USR0000AUMI - Average Min Temperature = -25.45 C
+Coldest Station 3: USC00248857 - Average Min Temperature = -23.30 C
+Coldest Station 4: USC00509315 - Average Min Temperature = -20.01 C
+Coldest Station 5: USC00502107 - Average Min Temperature = -17.07 C
+##########Hottest Stations Based on Temperature##########
+Hottest Station 1: USR0000CSAW - Highest Max Temperature = 55.60 C
+Hottest Station 2: USC00042319 - Highest Max Temperature = 53.90 C
+Hottest Station 3: USW00053139 - Highest Max Temperature = 52.30 C
+Hottest Station 4: USR0000CMOJ - Highest Max Temperature = 51.70 C
+Hottest Station 5: USR0000AHAV - Highest Max Temperature = 50.60 C
+##########Coldest Stations Based on Temperature##########
+Coldest Station 1: USC00501684 - Lowest Min Temperature = -53.90 C
+Coldest Station 2: USS0045R01S - Lowest Min Temperature = -50.10 C
+Coldest Station 3: USW00026422 - Lowest Min Temperature = -49.30 C
+Coldest Station 4: USC00502607 - Lowest Min Temperature = -48.90 C
+Coldest Station 5: USR0000ACHL - Lowest Min Temperature = -48.90 C
+
+
+Stats for year 2008
+###################
+##########Average Min Temperature##########
+Average TMIN = 4.07 C
+##########Average Max Temperature##########
+Average TMAX = 17.00 C
+##########Minimum Temperature##########
+Minimum TMIN = -57.80 C
+##########Maximum Temperature##########
+Maximum TMAX = 52.80 C
+##########Hottest Stations Based on Average##########
+Hottest Station 1: USC00411671 - Average Max Temperature = 35.08 C
+Hottest Station 2: USC00254113 - Average Max Temperature = 35.01 C
+Hottest Station 3: USW00003125 - Average Max Temperature = 34.88 C
+Hottest Station 4: USR0000HMOL - Average Max Temperature = 34.50 C
+Hottest Station 5: USC00044259 - Average Max Temperature = 34.39 C
+##########Coldest Stations Based on Average##########
+Coldest Station 1: USS0051R01S - Average Min Temperature = -25.96 C
+Coldest Station 2: USC00509315 - Average Min Temperature = -24.43 C
+Coldest Station 3: USC00390223 - Average Min Temperature = -19.74 C
+Coldest Station 4: USC00391917 - Average Min Temperature = -19.41 C
+Coldest Station 5: USC00476838 - Average Min Temperature = -19.25 C
+##########Hottest Stations Based on Temperature##########
+Hottest Station 1: USC00044297 - Highest Max Temperature = 52.80 C
+Hottest Station 2: USC00042319 - Highest Max Temperature = 52.80 C
+Hottest Station 3: USC00024761 - Highest Max Temperature = 51.10 C
+Hottest Station 4: USW00053139 - Highest Max Temperature = 50.80 C
+Hottest Station 5: USC00261371 - Highest Max Temperature = 50.00 C
+##########Coldest Stations Based on Temperature##########
+Coldest Station 1: USC00501684 - Lowest Min Temperature = -57.80 C
+Coldest Station 2: USR0000ACHL - Lowest Min Temperature = -52.20 C
+Coldest Station 3: USC00501492 - Lowest Min Temperature = -52.20 C
+Coldest Station 4: USS0045R01S - Lowest Min Temperature = -52.00 C
+Coldest Station 5: USW00026412 - Lowest Min Temperature = -51.10 C
+
+
+Stats for year 2009
+###################
+##########Average Min Temperature##########
+Average TMIN = 4.34 C
+##########Average Max Temperature##########
+Average TMAX = 16.88 C
+##########Minimum Temperature##########
+Minimum TMIN = -55.60 C
+##########Maximum Temperature##########
+Maximum TMAX = 53.30 C
+##########Hottest Stations Based on Average##########
+Hottest Station 1: USC00141408 - Average Max Temperature = 37.80 C
+Hottest Station 2: USR0000HMOL - Average Max Temperature = 36.21 C
+Hottest Station 3: USC00144530 - Average Max Temperature = 36.10 C
+Hottest Station 4: USC00027370 - Average Max Temperature = 34.46 C
+Hottest Station 5: USC00046198 - Average Max Temperature = 34.25 C
+##########Coldest Stations Based on Average##########
+Coldest Station 1: USC00501492 - Average Min Temperature = -33.43 C
+Coldest Station 2: USC00471618 - Average Min Temperature = -30.54 C
+Coldest Station 3: USC00509315 - Average Min Temperature = -27.51 C
+Coldest Station 4: USC00502015 - Average Min Temperature = -24.43 C
+Coldest Station 5: USC00212916 - Average Min Temperature = -23.43 C
+##########Hottest Stations Based on Temperature##########
+Hottest Station 1: USC00042319 - Highest Max Temperature = 53.30 C
+Hottest Station 2: USW00053139 - Highest Max Temperature = 50.90 C
+Hottest Station 3: USR0000AHAV - Highest Max Temperature = 49.40 C
+Hottest Station 4: USR0000CSQU - Highest Max Temperature = 49.40 C
+Hottest Station 5: USR0000CBUU - Highest Max Temperature = 49.40 C
+##########Coldest Stations Based on Temperature##########
+Coldest Station 1: USC00501684 - Lowest Min Temperature = -55.60 C
+Coldest Station 2: USC00502101 - Lowest Min Temperature = -55.60 C
+Coldest Station 3: USC00509313 - Lowest Min Temperature = -52.80 C
+Coldest Station 4: USR0000ACHL - Lowest Min Temperature = -52.20 C
+Coldest Station 5: USR0000AEAG - Lowest Min Temperature = -51.70 C
+
+
+Stats for year 2010
+###################
+##########Average Min Temperature##########
+Average TMIN = 4.72 C
+##########Average Max Temperature##########
+Average TMAX = 17.14 C
+##########Minimum Temperature##########
+Minimum TMIN = -53.30 C
+##########Maximum Temperature##########
+Maximum TMAX = 51.70 C
+##########Hottest Stations Based on Average##########
+Hottest Station 1: USC00141408 - Average Max Temperature = 35.00 C
+Hottest Station 2: USC00417951 - Average Max Temperature = 34.93 C
+Hottest Station 3: USC00027370 - Average Max Temperature = 33.36 C
+Hottest Station 4: USC00028070 - Average Max Temperature = 33.32 C
+Hottest Station 5: USC00341544 - Average Max Temperature = 33.11 C
+##########Coldest Stations Based on Average##########
+Coldest Station 1: USC00507097 - Average Min Temperature = -24.05 C
+Coldest Station 2: USR0000MKIL - Average Min Temperature = -22.85 C
+Coldest Station 3: USC00505873 - Average Min Temperature = -22.80 C
+Coldest Station 4: USR0000MOSC - Average Min Temperature = -22.79 C
+Coldest Station 5: USR0000MBRV - Average Min Temperature = -21.85 C
+##########Hottest Stations Based on Temperature##########
+Hottest Station 1: USC00042319 - Highest Max Temperature = 51.70 C
+Hottest Station 2: USR0000AHAV - Highest Max Temperature = 51.10 C
+Hottest Station 3: USW00053139 - Highest Max Temperature = 50.40 C
+Hottest Station 4: USR0000CBUU - Highest Max Temperature = 49.40 C
+Hottest Station 5: USR0000CMOJ - Highest Max Temperature = 49.40 C
+##########Coldest Stations Based on Temperature##########
+Coldest Station 1: USC00501684 - Lowest Min Temperature = -53.30 C
+Coldest Station 2: USC00502101 - Lowest Min Temperature = -53.30 C
+Coldest Station 3: USS0051R01S - Lowest Min Temperature = -51.90 C
+Coldest Station 4: USR0000ACHL - Lowest Min Temperature = -51.70 C
+Coldest Station 5: USS0045R01S - Lowest Min Temperature = -51.50 C
+
+
+Stats for year 2011
+###################
+##########Average Min Temperature##########
+Average TMIN = 4.60 C
+##########Average Max Temperature##########
+Average TMAX = 17.24 C
+##########Minimum Temperature##########
+Minimum TMIN = -51.70 C
+##########Maximum Temperature##########
+Maximum TMAX = 51.10 C
+##########Hottest Stations Based on Average##########
+Hottest Station 1: USR0000CTAR - Average Max Temperature = 37.80 C
+Hottest Station 2: USC00411416 - Average Max Temperature = 37.04 C
+Hottest Station 3: USC00035514 - Average Max Temperature = 36.10 C
+Hottest Station 4: USC00412350 - Average Max Temperature = 34.40 C
+Hottest Station 5: USR0000HMOL - Average Max Temperature = 34.36 C
+##########Coldest Stations Based on Average##########
+Coldest Station 1: USC00479012 - Average Min Temperature = -34.40 C
+Coldest Station 2: USC00509314 - Average Min Temperature = -24.56 C
+Coldest Station 3: USR0000MOSC - Average Min Temperature = -22.87 C
+Coldest Station 4: USR0000MBRV - Average Min Temperature = -22.75 C
+Coldest Station 5: USC00505136 - Average Min Temperature = -22.55 C
+##########Hottest Stations Based on Temperature##########
+Hottest Station 1: USC00042319 - Highest Max Temperature = 51.10 C
+Hottest Station 2: USR0000CCAA - Highest Max Temperature = 50.00 C
+Hottest Station 3: USR0000CBUU - Highest Max Temperature = 49.40 C
+Hottest Station 4: USC00022782 - Highest Max Temperature = 49.40 C
+Hottest Station 5: USW00053139 - Highest Max Temperature = 49.00 C
+##########Coldest Stations Based on Temperature##########
+Coldest Station 1: USC00509869 - Lowest Min Temperature = -51.70 C
+Coldest Station 2: USS0045R01S - Lowest Min Temperature = -50.70 C
+Coldest Station 3: USS0051R01S - Lowest Min Temperature = -50.20 C
+Coldest Station 4: USC00501684 - Lowest Min Temperature = -50.00 C
+Coldest Station 5: USC00501492 - Lowest Min Temperature = -49.40 C
+
+
+Stats for year 2012
+###################
+##########Average Min Temperature##########
+Average TMIN = 5.34 C
+##########Average Max Temperature##########
+Average TMAX = 18.38 C
+##########Minimum Temperature##########
+Minimum TMIN = -54.40 C
+##########Maximum Temperature##########
+Maximum TMAX = 53.70 C
+##########Hottest Stations Based on Average##########
+Hottest Station 1: USW00012946 - Average Max Temperature = 35.87 C
+Hottest Station 2: USC00290915 - Average Max Temperature = 35.38 C
+Hottest Station 3: USC00412906 - Average Max Temperature = 34.83 C
+Hottest Station 4: USC00040924 - Average Max Temperature = 34.60 C
+Hottest Station 5: USC00042319 - Average Max Temperature = 34.45 C
+##########Coldest Stations Based on Average##########
+Coldest Station 1: USC00504210 - Average Min Temperature = -28.25 C
+Coldest Station 2: USC00504971 - Average Min Temperature = -27.47 C
+Coldest Station 3: USC00503368 - Average Min Temperature = -22.78 C
+Coldest Station 4: USC00508156 - Average Min Temperature = -22.27 C
+Coldest Station 5: USR0000MKIL - Average Min Temperature = -22.04 C
+##########Hottest Stations Based on Temperature##########
+Hottest Station 1: USS0005N23S - Highest Max Temperature = 53.70 C
+Hottest Station 2: USC00042319 - Highest Max Temperature = 53.30 C
+Hottest Station 3: USW00053139 - Highest Max Temperature = 51.20 C
+Hottest Station 4: USC00020672 - Highest Max Temperature = 49.40 C
+Hottest Station 5: USR0000AHAV - Highest Max Temperature = 49.40 C
+##########Coldest Stations Based on Temperature##########
+Coldest Station 1: USC00503165 - Lowest Min Temperature = -54.40 C
+Coldest Station 2: USC00503212 - Lowest Min Temperature = -53.90 C
+Coldest Station 3: USS0051R01S - Lowest Min Temperature = -53.60 C
+Coldest Station 4: USR0000AFYK - Lowest Min Temperature = -53.30 C
+Coldest Station 5: USC00504210 - Lowest Min Temperature = -53.30 C
+
+
+Stats for year 2013
+###################
+##########Average Min Temperature##########
+Average TMIN = 4.31 C
+##########Average Max Temperature##########
+Average TMAX = 16.73 C
+##########Minimum Temperature##########
+Minimum TMIN = -52.80 C
+##########Maximum Temperature##########
+Maximum TMAX = 53.90 C
+##########Hottest Stations Based on Average##########
+Hottest Station 1: USC00260125 - Average Max Temperature = 36.91 C
+Hottest Station 2: USC00042319 - Average Max Temperature = 33.70 C
+Hottest Station 3: USC00042410 - Average Max Temperature = 33.62 C
+Hottest Station 4: USC00025270 - Average Max Temperature = 33.33 C
+Hottest Station 5: USC00021050 - Average Max Temperature = 32.98 C
+##########Coldest Stations Based on Average##########
+Coldest Station 1: USR0000ASLC - Average Min Temperature = -35.73 C
+Coldest Station 2: USC00201940 - Average Min Temperature = -24.40 C
+Coldest Station 3: USR0000MBRV - Average Min Temperature = -21.63 C
+Coldest Station 4: USR0000ABUU - Average Min Temperature = -20.31 C
+Coldest Station 5: USC00503212 - Average Min Temperature = -20.29 C
+##########Hottest Stations Based on Temperature##########
+Hottest Station 1: USC00042319 - Highest Max Temperature = 53.90 C
+Hottest Station 2: USW00004134 - Highest Max Temperature = 53.30 C
+Hottest Station 3: USC00044297 - Highest Max Temperature = 52.80 C
+Hottest Station 4: USW00053139 - Highest Max Temperature = 52.00 C
+Hottest Station 5: USC00045502 - Highest Max Temperature = 50.60 C
+##########Coldest Stations Based on Temperature##########
+Coldest Station 1: USC00502339 - Lowest Min Temperature = -52.80 C
+Coldest Station 2: USC00501684 - Lowest Min Temperature = -52.20 C
+Coldest Station 3: USS0051R01S - Lowest Min Temperature = -50.50 C
+Coldest Station 4: USS0045R01S - Lowest Min Temperature = -50.20 C
+Coldest Station 5: USR0000ABCK - Lowest Min Temperature = -50.00 C
+
+
+Stats for year 2014
+###################
+##########Average Min Temperature##########
+Average TMIN = 4.38 C
+##########Average Max Temperature##########
+Average TMAX = 16.84 C
+##########Minimum Temperature##########
+Minimum TMIN = -50.00 C
+##########Maximum Temperature##########
+Maximum TMAX = 52.20 C
+##########Hottest Stations Based on Average##########
+Hottest Station 1: USC00413618 - Average Max Temperature = 36.17 C
+Hottest Station 2: USC00042319 - Average Max Temperature = 34.70 C
+Hottest Station 3: USC00040924 - Average Max Temperature = 34.06 C
+Hottest Station 4: USW00003145 - Average Max Temperature = 33.77 C
+Hottest Station 5: USC00029656 - Average Max Temperature = 33.58 C
+##########Coldest Stations Based on Average##########
+Coldest Station 1: USC00238456 - Average Min Temperature = -25.53 C
+Coldest Station 2: USC00210746 - Average Min Temperature = -24.94 C
+Coldest Station 3: USC00210050 - Average Min Temperature = -24.26 C
+Coldest Station 4: USC00320450 - Average Min Temperature = -23.89 C
+Coldest Station 5: USC00208680 - Average Min Temperature = -23.30 C
+##########Hottest Stations Based on Temperature##########
+Hottest Station 1: USC00042319 - Highest Max Temperature = 52.20 C
+Hottest Station 2: USW00053139 - Highest Max Temperature = 51.10 C
+Hottest Station 3: USC00028396 - Highest Max Temperature = 49.40 C
+Hottest Station 4: USR0000CBUU - Highest Max Temperature = 48.90 C
+Hottest Station 5: USC00020672 - Highest Max Temperature = 48.90 C
+##########Coldest Stations Based on Temperature##########
+Coldest Station 1: USC00501684 - Lowest Min Temperature = -50.00 C
+Coldest Station 2: USS0045R01S - Lowest Min Temperature = -47.90 C
+Coldest Station 3: USR0000ABCK - Lowest Min Temperature = -47.20 C
+Coldest Station 4: USR0000AFYK - Lowest Min Temperature = -47.20 C
+Coldest Station 5: USR0000ACOA - Lowest Min Temperature = -46.70 C
+
+
+Stats for year 2015
+###################
+##########Average Min Temperature##########
+Average TMIN = 5.34 C
+##########Average Max Temperature##########
+Average TMAX = 17.71 C
+##########Minimum Temperature##########
+Minimum TMIN = -52.80 C
+##########Maximum Temperature##########
+Maximum TMAX = 55.60 C
+##########Hottest Stations Based on Average##########
+Hottest Station 1: USC00092593 - Average Max Temperature = 34.65 C
+Hottest Station 2: USC00403379 - Average Max Temperature = 34.63 C
+Hottest Station 3: USC00414278 - Average Max Temperature = 34.57 C
+Hottest Station 4: USC00040924 - Average Max Temperature = 34.40 C
+Hottest Station 5: USC00042319 - Average Max Temperature = 34.05 C
+##########Coldest Stations Based on Average##########
+Coldest Station 1: USC00158551 - Average Min Temperature = -32.20 C
+Coldest Station 2: USC00210050 - Average Min Temperature = -31.95 C
+Coldest Station 3: USC00242347 - Average Min Temperature = -24.18 C
+Coldest Station 4: USC00508130 - Average Min Temperature = -21.84 C
+Coldest Station 5: USC00503212 - Average Min Temperature = -20.01 C
+##########Hottest Stations Based on Temperature##########
+Hottest Station 1: USR0000HKAU - Highest Max Temperature = 55.60 C
+Hottest Station 2: USC00042319 - Highest Max Temperature = 51.70 C
+Hottest Station 3: USW00053139 - Highest Max Temperature = 49.90 C
+Hottest Station 4: USR0000CBUU - Highest Max Temperature = 48.90 C
+Hottest Station 5: USC00045502 - Highest Max Temperature = 48.30 C
+##########Coldest Stations Based on Temperature##########
+Coldest Station 1: USC00502339 - Lowest Min Temperature = -52.80 C
+Coldest Station 2: USC00501684 - Lowest Min Temperature = -50.60 C
+Coldest Station 3: USS0041P07S - Lowest Min Temperature = -49.10 C
+Coldest Station 4: USC00509314 - Lowest Min Temperature = -48.90 C
+Coldest Station 5: USW00026533 - Lowest Min Temperature = -48.80 C
+
+
+Stats for year 2016
+###################
+##########Average Min Temperature##########
+Average TMIN = 5.50 C
+##########Average Max Temperature##########
+Average TMAX = 17.90 C
+##########Minimum Temperature##########
+Minimum TMIN = -46.90 C
+##########Maximum Temperature##########
+Maximum TMAX = 53.90 C
+##########Hottest Stations Based on Average##########
+Hottest Station 1: USC00412906 - Average Max Temperature = 40.48 C
+Hottest Station 2: USC00297461 - Average Max Temperature = 36.31 C
+Hottest Station 3: USC00415101 - Average Max Temperature = 35.60 C
+Hottest Station 4: USC00406340 - Average Max Temperature = 34.30 C
+Hottest Station 5: USC00025700 - Average Max Temperature = 34.29 C
+##########Coldest Stations Based on Average##########
+Coldest Station 1: USC00200234 - Average Min Temperature = -26.65 C
+Coldest Station 2: USC00507778 - Average Min Temperature = -18.53 C
+Coldest Station 3: USC00210746 - Average Min Temperature = -17.11 C
+Coldest Station 4: USC00273860 - Average Min Temperature = -13.98 C
+Coldest Station 5: USW00027401 - Average Min Temperature = -13.77 C
+##########Hottest Stations Based on Temperature##########
+Hottest Station 1: USR0000CBEV - Highest Max Temperature = 53.90 C
+Hottest Station 2: USC00042319 - Highest Max Temperature = 52.80 C
+Hottest Station 3: USC00040924 - Highest Max Temperature = 52.20 C
+Hottest Station 4: USW00053139 - Highest Max Temperature = 51.70 C
+Hottest Station 5: USW00023179 - Highest Max Temperature = 51.70 C
+##########Coldest Stations Based on Temperature##########
+Coldest Station 1: USS0051R01S - Lowest Min Temperature = -46.90 C
+Coldest Station 2: USR0000ACHL - Lowest Min Temperature = -46.70 C
+Coldest Station 3: USC00501684 - Lowest Min Temperature = -46.70 C
+Coldest Station 4: USS0045R01S - Lowest Min Temperature = -45.60 C
+Coldest Station 5: USS0041P07S - Lowest Min Temperature = -44.30 C
+
+
+Stats for year 2017
+###################
+##########Average Min Temperature##########
+Average TMIN = 5.27 C
+##########Average Max Temperature##########
+Average TMAX = 17.66 C
+##########Minimum Temperature##########
+Minimum TMIN = -52.00 C
+##########Maximum Temperature##########
+Maximum TMAX = 52.80 C
+##########Hottest Stations Based on Average##########
+Hottest Station 1: USC00044297 - Average Max Temperature = 36.62 C
+Hottest Station 2: USC00022790 - Average Max Temperature = 35.99 C
+Hottest Station 3: USC00042319 - Average Max Temperature = 34.15 C
+Hottest Station 4: USC00029656 - Average Max Temperature = 33.87 C
+Hottest Station 5: USC00020632 - Average Max Temperature = 33.60 C
+##########Coldest Stations Based on Average##########
+Coldest Station 1: USC00503567 - Average Min Temperature = -22.89 C
+Coldest Station 2: USC00503585 - Average Min Temperature = -21.92 C
+Coldest Station 3: USC00322525 - Average Min Temperature = -17.07 C
+Coldest Station 4: USC00421590 - Average Min Temperature = -15.75 C
+Coldest Station 5: USC00253617 - Average Min Temperature = -15.37 C
+##########Hottest Stations Based on Temperature##########
+Hottest Station 1: USC00042319 - Highest Max Temperature = 52.80 C
+Hottest Station 2: USC00021050 - Highest Max Temperature = 52.20 C
+Hottest Station 3: USW00053139 - Highest Max Temperature = 51.80 C
+Hottest Station 4: USW00023179 - Highest Max Temperature = 51.70 C
+Hottest Station 5: USR0000AHAV - Highest Max Temperature = 51.10 C
+##########Coldest Stations Based on Temperature##########
+Coldest Station 1: USS0051R01S - Lowest Min Temperature = -52.00 C
+Coldest Station 2: USR0000ASLC - Lowest Min Temperature = -50.60 C
+Coldest Station 3: USW00026529 - Lowest Min Temperature = -50.60 C
+Coldest Station 4: USR0000ALIV - Lowest Min Temperature = -49.40 C
+Coldest Station 5: USS0045O04S - Lowest Min Temperature = -49.10 C
+
+
+Stats for year 2018
+###################
+##########Average Min Temperature##########
+Average TMIN = -3.42 C
+##########Average Max Temperature##########
+Average TMAX = 8.26 C
+##########Minimum Temperature##########
+Minimum TMIN = -52.80 C
+##########Maximum Temperature##########
+Maximum TMAX = 41.70 C
+##########Hottest Stations Based on Average##########
+Hottest Station 1: USW00092826 - Average Max Temperature = 28.15 C
+Hottest Station 2: USC00515710 - Average Max Temperature = 28.00 C
+Hottest Station 3: USC00518422 - Average Max Temperature = 27.81 C
+Hottest Station 4: USW00003104 - Average Max Temperature = 27.74 C
+Hottest Station 5: USW00092809 - Average Max Temperature = 27.72 C
+##########Coldest Stations Based on Average##########
+Coldest Station 1: USC00501684 - Average Min Temperature = -26.99 C
+Coldest Station 2: USC00210809 - Average Min Temperature = -26.55 C
+Coldest Station 3: USR0000AUMI - Average Min Temperature = -25.80 C
+Coldest Station 4: USS0051R01S - Average Min Temperature = -25.04 C
+Coldest Station 5: USR0000ANOR - Average Min Temperature = -24.88 C
+##########Hottest Stations Based on Temperature##########
+Hottest Station 1: USC00415060 - Highest Max Temperature = 41.70 C
+Hottest Station 2: USW00012907 - Highest Max Temperature = 40.60 C
+Hottest Station 3: USR0000TFAL - Highest Max Temperature = 40.60 C
+Hottest Station 4: USC00412950 - Highest Max Temperature = 40.00 C
+Hottest Station 5: USC00415861 - Highest Max Temperature = 40.00 C
+##########Coldest Stations Based on Temperature##########
+Coldest Station 1: USC00502339 - Lowest Min Temperature = -52.80 C
+Coldest Station 2: USC00501684 - Lowest Min Temperature = -47.80 C
+Coldest Station 3: USR0000AKAV - Lowest Min Temperature = -47.80 C
+Coldest Station 4: USR0000ANOR - Lowest Min Temperature = -47.80 C
+Coldest Station 5: USW00096406 - Lowest Min Temperature = -47.50 C
+###########################################
+##########Entire Dataset Analysis##########
+###########################################
+---------------------------------------------
+Coldest Day and Corresponding Weather Station
+---------------------------------------------
+Coldest Temperature has been observed on 20080207 in City USC00501684 with a temperature of -57.80 C
+
+---------------------------------------------
+Hottest Day and Corresponding Weather Station
+---------------------------------------------
+Hottest Temperature has been observed on 20150213 in City USR0000HKAU with a temperature of 55.60 C
+
