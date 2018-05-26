@@ -22,8 +22,10 @@ M-FLAG = 1 character Measurement Flag
 Q-FLAG = 1 character Quality Flag  
 S-FLAG = 1 character Source Flag  
 OBS-TIME = 4-character time of observation in hour-minute format (i.e. 0700 =7:00 am)  
+  
 See section III of the GHCN-Daily ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt file for an explanation of ELEMENT   codes and their units as well as the M-FLAG, Q-FLAGS and S-FLAGS.  
 The OBS-TIME field is populated with the observation times contained in NOAA/NCDC’s Multinetwork Metadata System (MMS).  
+  
 **In particular, it will have you build Apache Spark that yields the following analysis:**  
 1. Average TMIN, TMAX for each year excluding abnormalities or missing data  
 2. Maximum TMAX, Minimum TMIN for each year excluding abnormalities or missing data  
